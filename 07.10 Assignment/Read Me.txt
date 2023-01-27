@@ -1,0 +1,16 @@
+/**
+ * Purpose: Sort through a list of movies using Selection Sorting
+ *
+ * @author Burgess Doan
+ * @version 14 March 2022
+ *
+ *
+ *PMR:
+ *
+ * + This one when far quicker than 07.09, probably due to already understanding the logic
+ *
+ * - I missed a small part that completely messed up the logic, though I found it within 10 minutes
+ *
+ */
+ 
+ 

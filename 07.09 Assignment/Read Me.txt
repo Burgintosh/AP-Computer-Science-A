@@ -1,0 +1,16 @@
+/**
+ * Purpose: Sort through a list of movies
+ *
+ * @author Burgess Doan
+ * @version 14 March 2022
+ *
+ *
+ *PMR:
+ *
+ * + Once I understood it all, the coding went smoothly
+ *
+ * - I had to think through the logic behind the code for quite a while before I understood how it worked
+ *
+ */
+ 
+ 
